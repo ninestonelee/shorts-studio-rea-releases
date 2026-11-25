@@ -1,0 +1,9 @@
+쇼츠 만들기 (재현판) 배포판
+
+이 저장소의 배포 파일(Releases)은 자유롭게 받아 개인적으로 설치·사용할 수 있습니다.
+프로그램 소스와 배포 파일의 수정·재배포·판매는 허용하지 않습니다. All rights reserved.
+
+포함된 제3자 구성 요소:
+- Python 3.12 (Windows 판 내장, Python Software Foundation License)
+- Pillow (MIT-CMU License)
+- FFmpeg 는 포함하지 않으며 처음 실행 시 gyan.dev 빌드(GPL)를 받습니다(Windows).
